@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "test@test.com",
+      "password": "123456"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Steve Smith",
+      "email": "steve@gmail.com",
+      "phone": "1231231234",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Harry Thompson",
+      "email": "harry@gmail.com",
+      "phone": "5556669999",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "Marry White",
+      "email": "marry@gmail.com",
+      "phone": "2223334444"
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "name": "Marry Leo Jr",
+      "email": "test@test.com",
+      "phone": "3332225555"
+    }
+  ]
+}
