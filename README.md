@@ -3,7 +3,7 @@
 ### Steps to run this project:
 
 1.  Clone the Repo by using command:
-    `git clone https://github.com/rrankawat/react-contactlist.git`
+    `git clone https://github.com/vermaPriya/contactlist.git`
 2.  Change directory:
     `cd react-contactlist`
 3.  Install the dependencies for this project by using command:
@@ -13,5 +13,7 @@
 5.  Login to the project using credentials:
     `Email: test@test.com`
     `Password: 123456`
-
+6. For running json server 
+    install json server -  npm install -g json-server
+    run this command - json-server --watch db.json --port 5000
 **Note:** Make sure your system have nodejs and npm installed
